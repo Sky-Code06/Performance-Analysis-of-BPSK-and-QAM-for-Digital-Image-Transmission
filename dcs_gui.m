@@ -2,7 +2,7 @@ function dcs_gui()
 % DCS_GUI Interactive GUI for Digital Image Transmission Simulation
 %
 % Vellore Institute of Technology | School of Electronics (SENSE)
-% Digital Communication Systems (DCS) Review - I
+% Digital Communication Systems (DCS) Course Project
 %
 % Team Members:
 %   Glenn Monteiro   (24BEC0474)
@@ -15,7 +15,7 @@ function dcs_gui()
     addpath('core');
 
     % Create modern figure window
-    fig = uifigure('Name', 'DCS Review - I : BPSK & QAM Image Transmission Simulator', ...
+    fig = uifigure('Name', 'DCS BPSK & QAM Image Transmission Simulator', ...
                    'Position', [100, 80, 1200, 750], ...
                    'Color', [0.95, 0.96, 0.98]);
 
@@ -31,7 +31,7 @@ function dcs_gui()
                          'BackgroundColor', [0.12, 0.23, 0.45], 'BorderType', 'none');
     uilabel(header_pnl, 'Text', 'VELLORE INSTITUTE OF TECHNOLOGY | SCHOOL OF ELECTRONICS (SENSE)', ...
             'Position', [20, 36, 800, 22], 'FontSize', 12, 'FontColor', [0.85, 0.90, 1.0], 'FontWeight', 'bold');
-    uilabel(header_pnl, 'Text', 'Performance Analysis of BPSK and QAM for Digital Image Transmission (Review - I)', ...
+    uilabel(header_pnl, 'Text', 'Performance Analysis of BPSK and QAM for Digital Image Transmission', ...
             'Position', [20, 10, 850, 24], 'FontSize', 14, 'FontColor', [1.0, 1.0, 1.0], 'FontWeight', 'bold');
     uilabel(header_pnl, 'Text', 'Team: Glenn (24BEC0474), Sanskriti (24BEC0183), Aakash (24BEC0080)', ...
             'Position', [720, 12, 430, 20], 'FontSize', 10, 'FontColor', [0.85, 0.92, 1.0], 'HorizontalAlignment', 'right');

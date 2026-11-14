@@ -271,7 +271,7 @@ html_content = """<!DOCTYPE html>
     <td>B.Tech. Electronics and Communication Engineering (ECE) | Fall 2026–27</td>
   </tr>
   <tr>
-    <th>Course Faculty / Review Panel</th>
+    <th>Course Faculty / Evaluation Committee</th>
     <td>School of Electronics Engineering (SENSE), VIT Vellore</td>
   </tr>
 </table>
@@ -424,7 +424,7 @@ To formulate, model, and simulate an end-to-end digital image communication tran
   <li><strong>Perceptual Image Quality Assessment:</strong> Evaluate visual degradation using Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), and Structural Similarity Index (SSIM).</li>
   <li><strong>Phase-Space Constellation Scattering:</strong> Map In-Phase (I) and Quadrature (Q) signal clouds across SNR levels to observe decision boundary crossings.</li>
   <li><strong>Advanced Extensions Prototyping:</strong> Implement (7,4) Hamming Forward Error Correction (FEC), flat Rayleigh fading with MMSE equalization, and an Adaptive Modulation and Coding (AMC) policy.</li>
-  <li><strong>Interactive GUI Development:</strong> Construct an interactive application (<code>dcs_gui.m</code>) facilitating live interactive demonstrations for review evaluations.</li>
+  <li><strong>Interactive GUI Development:</strong> Construct an interactive application (<code>dcs_gui.m</code>) facilitating live interactive demonstrations and testing.</li>
 </ol>
 
 <div class="page-break"></div>
@@ -896,7 +896,7 @@ Future work will focus on integrating Low-Density Parity-Check (LDPC) channel co
     <table style="width: 100%; border: none;">
       <tr>
         <td style="border: none; text-align: left; font-size: 10pt;">
-          <strong>Verified by Course Faculty / Review Panel:</strong><br><br>
+          <strong>Verified by Course Faculty / Evaluation Committee:</strong><br><br>
           Faculty Name: ____________________________________<br><br>
           Signature: ________________________________________<br><br>
           Date: _____________________________________________

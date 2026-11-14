@@ -1,6 +1,6 @@
 %% =========================================================================
 % VELLORE INSTITUTE OF TECHNOLOGY | SCHOOL OF ELECTRONICS (SENSE)
-% Digital Communication Systems (DCS) Review - I
+% Digital Communication Systems (DCS) Course Project
 %
 % ADVANCED EXTENSIONS (Further Improvements Demonstration):
 %   1. Forward Error Correction (FEC) with (7,4) Hamming Coding
@@ -17,7 +17,7 @@ clear; close all; clc;
 addpath('core');
 
 fprintf('====================================================================\n');
-fprintf('  DCS Review - I : Advanced Extensions (Further Improvements)       \n');
+fprintf('  DCS Course Project : Advanced Extensions (Further Improvements)   \n');
 fprintf('  1. FEC Channel Coding  | 2. Rayleigh Fading  | 3. Adaptive AMC   \n');
 fprintf('====================================================================\n\n');
 

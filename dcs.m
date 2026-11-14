@@ -1,6 +1,6 @@
 %% =========================================================================
 % VELLORE INSTITUTE OF TECHNOLOGY | SCHOOL OF ELECTRONICS (SENSE)
-% Digital Communication Systems (DCS) Review - I
+% Digital Communication Systems (DCS) Course Project
 %
 % Title: Performance Analysis of BPSK and QAM for Digital Image Transmission
 %

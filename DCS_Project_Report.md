@@ -290,7 +290,7 @@ The implementation is executed through the following algorithmic stages:
 1. **Dual-Domain Evaluation Framework:** Conventional digital communication studies restrict analysis to numerical BER curves. This project establishes a synchronous dual-domain framework that simultaneously evaluates physical constellation scattering and spatial perceptual image degradation (PSNR and SSIM).
 2. **Spatial Pixel Error Difference Heatmaps:** By isolating $|I_{\text{orig}} - I_{\text{rec}}|$, our framework visually maps how random bit flips in transmission propagate into non-uniform pixel artifacts.
 3. **Interactive Simulation Application (`dcs_gui.m`):** An intuitive MATLAB App Designer GUI allows users to dynamically vary channel $E_b/N_0$ from $-2\text{ dB}$ to $20\text{ dB}$, switch between four modulation schemes (BPSK, 4-QAM, 16-QAM, 64-QAM), and inspect real-time reconstructed images, error maps, and constellation diagrams.
-4. **Prototype of Advanced Extensions (`dcs_extensions.m`):** Pre-empting Review – II requirements, the framework includes working implementations of:
+4. **Prototype of Advanced Extensions (`dcs_extensions.m`):** As an advanced engineering extension beyond the baseline scope, the framework includes working implementations of:
    - Systematic $(7,4)$ Hamming Forward Error Correction.
    - Flat Rayleigh fading channel with MMSE equalization.
    - Adaptive Modulation and Coding (AMC) policy switching between BPSK and 16-QAM based on real-time channel thresholds.
@@ -464,7 +464,7 @@ The United Nations Sustainable Development Goals (SDGs) define international tar
 ## CHAPTER 6: CONCLUSION & REFERENCES
 
 ### 6.1 Summary of Project Achievements
-This project developed, validated, and benchmarked an end-to-end digital image communication transceiver system in MATLAB, successfully meeting all Review – I milestones:
+This project developed, validated, and benchmarked an end-to-end digital image communication transceiver system in MATLAB, successfully meeting all planned objectives:
 1. **Transceiver Implementation:** Developed modular functions for image serialization, baseband modulation (BPSK, 4-QAM, 16-QAM, 64-QAM), calibrated AWGN channel simulation, coherent ML demodulation, and image reconstruction.
 2. **Spectral Efficiency Validation:** Confirmed that 16-QAM reduces channel symbol count by $75\%$ ($131,072$ vs. $524,288$ symbols for a $256 \times 256$ image), delivering a $4\times$ improvement in bandwidth efficiency.
 3. **Analytical Verification:** Simulated Monte Carlo BER curves closely matched exact theoretical bounds ($Q(\sqrt{2E_b/N_0})$ for BPSK and Craig's Gray-coded formula for 16-QAM).

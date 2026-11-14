@@ -1,4 +1,4 @@
-# DCS Review – I Presentation Guide & Viva Defense
+# DCS Course Project Presentation Guide & Viva Defense
 
 **Vellore Institute of Technology | School of Electronics Engineering (SENSE)**  
 **Course:** Digital Communication Systems (DCS)  
@@ -29,7 +29,7 @@
 
 ### Slide 1: Title Slide
 **Speaker: Glenn Monteiro**
-> *"Respected panel members and professors, a very pleasant morning. Today, my team members Sanskriti Sarkar, Aakash Nair, and I, Glenn Monteiro, are presenting our Digital Communication Systems Review – I project titled: **'Performance Analysis of BPSK and QAM for Digital Image Transmission'** under the School of Electronics Engineering."*
+> *"Respected panel members and professors, a very pleasant morning. Today, my team members Sanskriti Sarkar, Aakash Nair, and I, Glenn Monteiro, are presenting our Digital Communication Systems project titled: **'Performance Analysis of BPSK and QAM for Digital Image Transmission'** under the School of Electronics Engineering."*
 
 ---
 
@@ -100,7 +100,7 @@
 
 ---
 
-## 3. Top 10 Review – I Viva Questions & Model Answers
+## 3. Top 10 Project Viva Questions & Model Answers
 
 ### Q1: Why did you choose BPSK and 16-QAM for comparison instead of QPSK and 16-QAM?
 **Answer:**  

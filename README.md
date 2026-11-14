@@ -6,7 +6,7 @@
 [![Course](https://img.shields.io/badge/Course-BECE306P--DCS-orange.svg)](https://vit.ac.in)
 [![Institution](https://img.shields.io/badge/Institution-VIT%20Vellore-002b49.svg)](https://vit.ac.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Completed%20%7C%20Review--I%20Validated-brightgreen.svg)]()
+[![Status](https://img.shields.io/badge/Status-Completed%20%7C%20Verified-brightgreen.svg)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 
 **School of Electronics Engineering (SENSE) — Vellore Institute of Technology (VIT), Vellore**  
@@ -132,7 +132,7 @@ Mapping absolute spatial error differences $|I_{\text{orig}}(x,y) - I_{\text{rec
 ---
 
 ### 6. Advanced Extensions Prototype (Further Improvements)
-Pre-empting Review – II requirements, working prototypes were implemented for **Forward Error Correction**, **Multipath Fading**, and **Adaptive Modulation**:
+As an extension to the core modulation study, working prototypes were implemented for **Forward Error Correction**, **Multipath Fading**, and **Adaptive Modulation**:
 
 <div align="center">
   <img src="results/6_further_improvements_extensions.png" alt="Further Improvements Extensions" width="950"/>
@@ -254,7 +254,7 @@ An interactive app was developed using MATLAB App Designer for live viva demonst
 ├── dcs_extensions.m                       # Advanced extensions simulation script
 ├── DCS_Project_Report.pdf                 # Complete Course Project Report (30 Marks Rubric)
 ├── DCS_Project_Report.html                # Self-contained HTML report with embedded figures
-├── Review_1_Presentation_Guide.md         # Slide-by-slide speaker script & top 10 viva defense Q&A
+├── Presentation_and_Viva_Guide.md         # Slide-by-slide speaker script & top 10 viva defense Q&A
 ├── LICENSE                                # MIT Open Source License
 └── README.md                              # Project documentation & GitHub showcase
 ```
@@ -275,7 +275,7 @@ An interactive app was developed using MATLAB App Designer for live viva demonst
 The complete academic course project report matching the **VIT SENSE Course Project Evaluation Rubric (Total: 30 Marks)** is available:
 * 📕 **[Download Full PDF Report](DCS_Project_Report.pdf)** (2.3 MB, formatted with cover page, evaluation rubric sheet, data tables, and declarations)
 * 🌐 **[View HTML Version](DCS_Project_Report.html)** (Self-contained, in-browser printable version)
-* 🎤 **[Viva Defense Guide](Review_1_Presentation_Guide.md)** (Speaker allocation script and top 10 viva defense Q&A)
+* 🎤 **[Viva Defense Guide](Presentation_and_Viva_Guide.md)** (Speaker allocation script and top 10 viva defense Q&A)
 
 ---
 
