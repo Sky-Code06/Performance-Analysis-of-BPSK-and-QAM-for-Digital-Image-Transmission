@@ -188,7 +188,7 @@ An interactive app was developed using MATLAB App Designer for live viva demonst
 ### Quickstart
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/reachfortheskiez/Performance-Analysis-of-BPSK-and-QAM-for-Digital-Image-Transmission.git
+   git clone https://github.com/Sky-Code06/Performance-Analysis-of-BPSK-and-QAM-for-Digital-Image-Transmission.git
    cd Performance-Analysis-of-BPSK-and-QAM-for-Digital-Image-Transmission
    ```
 
