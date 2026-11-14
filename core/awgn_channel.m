@@ -1,4 +1,4 @@
-function [rx_symbols, noise, sigma] = awgn_channel(tx_symbols, snr_dB, k, mode)
+﻿function [rx_symbols, noise, sigma] = awgn_channel(tx_symbols, snr_dB, k, mode)
 % AWGN_CHANNEL Simulates an Additive White Gaussian Noise (AWGN) channel.
 %
 % Syntax:
@@ -28,7 +28,7 @@ function [rx_symbols, noise, sigma] = awgn_channel(tx_symbols, snr_dB, k, mode)
 %     sigma = 1 / sqrt(2 * 10^(snr_dB / 10))
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 3 || isempty(k)

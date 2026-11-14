@@ -1,4 +1,4 @@
-function [tx_symbols, k, pad_len] = modulate_qam(bits, M)
+﻿function [tx_symbols, k, pad_len] = modulate_qam(bits, M)
 % MODULATE_QAM Multi-Level Quadrature Amplitude Modulation (M-QAM) Modulator
 %
 % Syntax:
@@ -14,7 +14,7 @@ function [tx_symbols, k, pad_len] = modulate_qam(bits, M)
 %   pad_len    - Number of zero-padding bits added to align stream with symbol boundary
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 2 || isempty(M)

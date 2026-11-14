@@ -5,9 +5,9 @@ function dcs_gui()
 % Digital Communication Systems (DCS) Course Project
 %
 % Team Members:
-%   Glenn Monteiro   (24BEC0474)
-%   Sanskriti Sarkar (24BEC0183)
 %   Aakash Nair      (24BEC0080)
+%   Sanskriti Sarkar (24BEC0183)
+%   Glenn Monteiro   (24BEC0474)
 %
 % To launch:
 %   >> dcs_gui
@@ -33,7 +33,7 @@ function dcs_gui()
             'Position', [20, 36, 800, 22], 'FontSize', 12, 'FontColor', [0.85, 0.90, 1.0], 'FontWeight', 'bold');
     uilabel(header_pnl, 'Text', 'Performance Analysis of BPSK and QAM for Digital Image Transmission', ...
             'Position', [20, 10, 850, 24], 'FontSize', 14, 'FontColor', [1.0, 1.0, 1.0], 'FontWeight', 'bold');
-    uilabel(header_pnl, 'Text', 'Team: Glenn (24BEC0474), Sanskriti (24BEC0183), Aakash (24BEC0080)', ...
+    uilabel(header_pnl, 'Text', 'Team: Aakash (24BEC0080), Sanskriti (24BEC0183), Glenn (24BEC0474)', ...
             'Position', [720, 12, 430, 20], 'FontSize', 10, 'FontColor', [0.85, 0.92, 1.0], 'HorizontalAlignment', 'right');
 
     %% Left Control Panel

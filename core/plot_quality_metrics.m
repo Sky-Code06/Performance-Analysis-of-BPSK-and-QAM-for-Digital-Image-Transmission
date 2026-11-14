@@ -1,4 +1,4 @@
-function fig = plot_quality_metrics(snr_range, psnr_bpsk, psnr_qam, ssim_bpsk, ssim_qam)
+﻿function fig = plot_quality_metrics(snr_range, psnr_bpsk, psnr_qam, ssim_bpsk, ssim_qam)
 % PLOT_QUALITY_METRICS Plots PSNR and SSIM curves vs. SNR for BPSK and 16-QAM.
 %
 % Syntax:
@@ -9,7 +9,7 @@ function fig = plot_quality_metrics(snr_range, psnr_bpsk, psnr_qam, ssim_bpsk, s
 %   Subplot 2: Structural Similarity Index (SSIM) vs SNR
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     fig = figure('Name', 'Perceptual Image Quality Metrics (PSNR & SSIM vs SNR)', ...

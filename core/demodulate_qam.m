@@ -1,4 +1,4 @@
-function rx_bits = demodulate_qam(rx_symbols, M, pad_len)
+﻿function rx_bits = demodulate_qam(rx_symbols, M, pad_len)
 % DEMODULATE_QAM Multi-Level Quadrature Amplitude Modulation Demodulator
 %
 % Syntax:
@@ -13,7 +13,7 @@ function rx_bits = demodulate_qam(rx_symbols, M, pad_len)
 %   rx_bits    - Recovered binary bit vector (0 or 1)
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 2 || isempty(M)

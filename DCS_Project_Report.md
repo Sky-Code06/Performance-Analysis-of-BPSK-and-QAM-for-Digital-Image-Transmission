@@ -14,9 +14,9 @@
 - **Course Title & Code:** Digital Communication Systems (`BECE306P`)
 - **Project Title:** Performance Analysis of BPSK and QAM for Digital Image Transmission
 - **Group / Team Members:**
-  1. **Glenn Monteiro** — Reg. No: `24BEC0474`
+  1. **Aakash Nair** — Reg. No: `24BEC0080`
   2. **Sanskriti Sarkar** — Reg. No: `24BEC0183`
-  3. **Aakash Nair** — Reg. No: `24BEC0080`
+  3. **Glenn Monteiro** — Reg. No: `24BEC0474`
 - **Academic Year:** 2026–2027
 - **Programme:** B.Tech. in Electronics and Communication Engineering (ECE)
 - **School:** School of Electronics Engineering (SENSE)
@@ -501,12 +501,12 @@ We hereby declare that this project report entitled **"Performance Analysis of B
 
 | Student Name | Registration Number | Signature | Date |
 | :--- | :---: | :---: | :---: |
-| **Glenn Monteiro** | `24BEC0474` | ______________________ | 23-10-2026 |
-| **Sanskriti Sarkar** | `24BEC0183` | ______________________ | 23-10-2026 |
 | **Aakash Nair** | `24BEC0080` | ______________________ | 23-10-2026 |
+| **Sanskriti Sarkar** | `24BEC0183` | ______________________ | 23-10-2026 |
+| **Glenn Monteiro** | `24BEC0474` | ______________________ | 23-10-2026 |
 
 ---
-**Verified by Course Faculty / Review Panel:**  
+**Verified by Course Faculty / Evaluation Committee:**  
 Date: ________________________  
 Faculty Signature: ________________________  
 Marks Awarded: ________ / 30

@@ -5,9 +5,9 @@
 % Title: Performance Analysis of BPSK and QAM for Digital Image Transmission
 %
 % Team Members:
-%   1. Glenn Monteiro   (24BEC0474)
+%   1. Aakash Nair      (24BEC0080)
 %   2. Sanskriti Sarkar (24BEC0183)
-%   3. Aakash Nair      (24BEC0080)
+%   3. Glenn Monteiro   (24BEC0474)
 %
 % Academic Year: 2026-27
 % =========================================================================
@@ -20,8 +20,8 @@ fprintf('====================================================================\n'
 fprintf('  VELLORE INSTITUTE OF TECHNOLOGY | SCHOOL OF ELECTRONICS (SENSE)  \n');
 fprintf('  Digital Communication Systems (DCS)\n');
 fprintf('  Performance Analysis of BPSK and QAM for Digital Image Transmission\n');
-fprintf('  Team: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183),   \n');
-fprintf('        Aakash Nair (24BEC0080) | Academic Year: 2026-27           \n');
+fprintf('  Team: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183),   \n');
+fprintf('        Glenn Monteiro (24BEC0474) | Academic Year: 2026-27        \n');
 fprintf('====================================================================\n\n');
 
 %% 1. Configuration & Parameters

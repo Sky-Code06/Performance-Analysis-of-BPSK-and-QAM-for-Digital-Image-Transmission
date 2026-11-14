@@ -1,4 +1,4 @@
-function fig = plot_image_grid(orig_img, rx_imgs_bpsk, rx_imgs_qam, metrics_bpsk, metrics_qam, snr_levels)
+﻿function fig = plot_image_grid(orig_img, rx_imgs_bpsk, rx_imgs_qam, metrics_bpsk, metrics_qam, snr_levels)
 % PLOT_IMAGE_GRID Generates a comparative visual matrix of received images.
 %
 % Syntax:
@@ -11,7 +11,7 @@ function fig = plot_image_grid(orig_img, rx_imgs_bpsk, rx_imgs_qam, metrics_bpsk
 %   - Annotations showing BER and PSNR for each case
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     num_snrs = length(snr_levels);

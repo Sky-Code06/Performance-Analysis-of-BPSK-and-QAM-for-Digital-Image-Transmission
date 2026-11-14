@@ -1,4 +1,4 @@
-function [rx_bits_coded, ber_coded, ber_uncoded] = fec_hamming(tx_bits, snr_dB, mod_type)
+﻿function [rx_bits_coded, ber_coded, ber_uncoded] = fec_hamming(tx_bits, snr_dB, mod_type)
 % FEC_HAMMING Demonstrates Forward Error Correction (FEC) using (7,4) Hamming code.
 %
 % Syntax:
@@ -10,7 +10,7 @@ function [rx_bits_coded, ber_coded, ber_uncoded] = fec_hamming(tx_bits, snr_dB, 
 %   - Syndrome-based single-bit error detection and correction decoder
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 3 || isempty(mod_type)

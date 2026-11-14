@@ -1,4 +1,4 @@
-function img = bits_to_image(bits, meta)
+﻿function img = bits_to_image(bits, meta)
 % BITS_TO_IMAGE Reconstructs an image from a binary bitstream using metadata.
 %
 % Syntax:
@@ -12,7 +12,7 @@ function img = bits_to_image(bits, meta)
 %   img  - Reconstructed uint8 image matrix [H x W] or [H x W x C]
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     % 1. Enforce correct length and format

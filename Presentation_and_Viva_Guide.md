@@ -6,9 +6,9 @@
 **Academic Year:** 2026–27  
 
 **Team Members:**
-- **Glenn Monteiro** (`24BEC0474`)
-- **Sanskriti Sarkar** (`24BEC0183`)
 - **Aakash Nair** (`24BEC0080`)
+- **Sanskriti Sarkar** (`24BEC0183`)
+- **Glenn Monteiro** (`24BEC0474`)
 
 ---
 
@@ -16,10 +16,10 @@
 
 | Slide | Topic | Primary Speaker | Supporting Role |
 | :---: | :--- | :--- | :--- |
-| **Slide 1** | Title & Introduction of Team | **Glenn Monteiro** | All members |
-| **Slide 2** | Introduction & System Overview | **Glenn Monteiro** | Aakash Nair |
-| **Slide 3** | Literature Survey & Foundation | **Sanskriti Sarkar** | Glenn Monteiro |
-| **Slide 4** | Block Diagram & Proposed Architecture | **Aakash Nair** | Sanskriti Sarkar |
+| **Slide 1** | Title & Introduction of Team | **Aakash Nair** | All members |
+| **Slide 2** | Introduction & System Overview | **Aakash Nair** | Glenn Monteiro |
+| **Slide 3** | Literature Survey & Foundation | **Sanskriti Sarkar** | Aakash Nair |
+| **Slide 4** | Block Diagram & Proposed Architecture | **Glenn Monteiro** | Sanskriti Sarkar |
 | **Slide 5** | Issues, Challenges & Research Gap | **Sanskriti Sarkar** | Glenn Monteiro |
 | **Slide 6** | Outcomes, Live Demo & Further Improvements | **Aakash Nair** | All members (Q&A) |
 
@@ -28,13 +28,13 @@
 ## 2. Slide-by-Slide Presentation Script
 
 ### Slide 1: Title Slide
-**Speaker: Glenn Monteiro**
-> *"Respected panel members and professors, a very pleasant morning. Today, my team members Sanskriti Sarkar, Aakash Nair, and I, Glenn Monteiro, are presenting our Digital Communication Systems project titled: **'Performance Analysis of BPSK and QAM for Digital Image Transmission'** under the School of Electronics Engineering."*
+**Speaker: Aakash Nair**
+> *"Respected panel members and professors, a very pleasant morning. Today, my team members Sanskriti Sarkar, Glenn Monteiro, and I, Aakash Nair, are presenting our Digital Communication Systems project titled: **'Performance Analysis of BPSK and QAM for Digital Image Transmission'** under the School of Electronics Engineering."*
 
 ---
 
 ### Slide 2: Introduction
-**Speaker: Glenn Monteiro**
+**Speaker: Aakash Nair**
 > *"In modern wireless visual communication systems—ranging from satellite earth observation to real-time multimedia streaming—the choice of digital modulation governs the fundamental trade-off between bandwidth consumption and error resilience.*
 >
 > *Our project designs and simulates a complete MATLAB-based communication pipeline. We transform raw digital images into binary bitstreams, modulate them using two contrasting modulation archetypes—Binary Phase Shift Keying (BPSK) and 16-ary Quadrature Amplitude Modulation (16-QAM)—pass them through an Additive White Gaussian Noise (AWGN) channel under variable SNR conditions, and reconstruct the received images.*

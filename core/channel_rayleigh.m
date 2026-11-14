@@ -1,4 +1,4 @@
-function [rx_equalized, h_channel, noise] = channel_rayleigh(tx_symbols, snr_dB, k, eq_type)
+﻿function [rx_equalized, h_channel, noise] = channel_rayleigh(tx_symbols, snr_dB, k, eq_type)
 % CHANNEL_RAYLEIGH Simulates a Flat Rayleigh Fading Channel with AWGN & Equalization.
 %
 % Syntax:
@@ -17,7 +17,7 @@ function [rx_equalized, h_channel, noise] = channel_rayleigh(tx_symbols, snr_dB,
 %   MMSE Equalizer: s_hat = (conj(h) / (|h|^2 + 1/SNR)) * r
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 3 || isempty(k)

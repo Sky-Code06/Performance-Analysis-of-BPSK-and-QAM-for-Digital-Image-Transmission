@@ -1,4 +1,4 @@
-function rx_bits = demodulate_bpsk(rx_symbols)
+﻿function rx_bits = demodulate_bpsk(rx_symbols)
 % DEMODULATE_BPSK Coherent Maximum Likelihood (ML) Demodulator for BPSK
 %
 % Syntax:
@@ -13,7 +13,7 @@ function rx_bits = demodulate_bpsk(rx_symbols)
 %   rx_bits - Column vector of hard-decision recovered bits (0 or 1)
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     % Coherent projection onto the real in-phase decision axis

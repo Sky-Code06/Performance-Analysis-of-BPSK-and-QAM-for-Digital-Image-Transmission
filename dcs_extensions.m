@@ -8,9 +8,9 @@
 %   3. Adaptive Modulation and Coding (AMC) Dynamic Switching
 %
 % Team Members:
-%   Glenn Monteiro   (24BEC0474)
-%   Sanskriti Sarkar (24BEC0183)
 %   Aakash Nair      (24BEC0080)
+%   Sanskriti Sarkar (24BEC0183)
+%   Glenn Monteiro   (24BEC0474)
 % =========================================================================
 
 clear; close all; clc;

@@ -1,4 +1,4 @@
-function fig = plot_constellations(rx_bpsk_all, rx_qam_all, snr_levels, max_pts)
+﻿function fig = plot_constellations(rx_bpsk_all, rx_qam_all, snr_levels, max_pts)
 % PLOT_CONSTELLATIONS Plots comparative I/Q constellation scatter diagrams.
 %
 % Syntax:
@@ -11,7 +11,7 @@ function fig = plot_constellations(rx_bpsk_all, rx_qam_all, snr_levels, max_pts)
 %   max_pts     - Maximum points to scatter per subplot for rendering speed (default 2500)
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     if nargin < 4 || isempty(max_pts)

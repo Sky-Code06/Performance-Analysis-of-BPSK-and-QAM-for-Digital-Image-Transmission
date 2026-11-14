@@ -1,4 +1,4 @@
-function [bits, meta] = image_to_bits(img_input)
+﻿function [bits, meta] = image_to_bits(img_input)
 % IMAGE_TO_BITS Converts a 2D grayscale or 3D RGB image into a binary bitstream.
 %
 % Syntax:
@@ -17,7 +17,7 @@ function [bits, meta] = image_to_bits(img_input)
 %               .total_bits : Total bit count (8 * total_bytes)
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     % 1. Load image if filename is provided

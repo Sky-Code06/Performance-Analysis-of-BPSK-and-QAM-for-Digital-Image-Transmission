@@ -261,9 +261,9 @@ html_content = """<!DOCTYPE html>
   <tr>
     <th>Group / Team Members</th>
     <td>
-      1. <strong>Glenn Monteiro</strong> (Reg. No: <strong>24BEC0474</strong>)<br>
+      1. <strong>Aakash Nair</strong> (Reg. No: <strong>24BEC0080</strong>)<br>
       2. <strong>Sanskriti Sarkar</strong> (Reg. No: <strong>24BEC0183</strong>)<br>
-      3. <strong>Aakash Nair</strong> (Reg. No: <strong>24BEC0080</strong>)
+      3. <strong>Glenn Monteiro</strong> (Reg. No: <strong>24BEC0474</strong>)
     </td>
   </tr>
   <tr>
@@ -871,8 +871,8 @@ Future work will focus on integrating Low-Density Parity-Check (LDPC) channel co
       <td style="width: 33%;">
         <br><br>
         ____________________________<br>
-        <strong>Glenn Monteiro</strong><br>
-        Reg. No: <strong>24BEC0474</strong><br>
+        <strong>Aakash Nair</strong><br>
+        Reg. No: <strong>24BEC0080</strong><br>
         Date: 23-10-2026
       </td>
       <td style="width: 33%;">
@@ -885,8 +885,8 @@ Future work will focus on integrating Low-Density Parity-Check (LDPC) channel co
       <td style="width: 33%;">
         <br><br>
         ____________________________<br>
-        <strong>Aakash Nair</strong><br>
-        Reg. No: <strong>24BEC0080</strong><br>
+        <strong>Glenn Monteiro</strong><br>
+        Reg. No: <strong>24BEC0474</strong><br>
         Date: 23-10-2026
       </td>
     </tr>

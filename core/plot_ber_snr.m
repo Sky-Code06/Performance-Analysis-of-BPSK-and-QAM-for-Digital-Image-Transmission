@@ -1,4 +1,4 @@
-function fig = plot_ber_snr(snr_range, sim_ber_bpsk, theo_ber_bpsk, sim_ber_qam, theo_ber_qam)
+﻿function fig = plot_ber_snr(snr_range, sim_ber_bpsk, theo_ber_bpsk, sim_ber_qam, theo_ber_qam)
 % PLOT_BER_SNR Plots comparative Bit Error Rate (BER) vs. SNR curves.
 %
 % Syntax:
@@ -11,7 +11,7 @@ function fig = plot_ber_snr(snr_range, sim_ber_bpsk, theo_ber_bpsk, sim_ber_qam,
 %   - Highlights the ~4 dB SNR trade-off for 4x spectral efficiency
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     fig = figure('Name', 'BER vs SNR Performance Analysis', ...

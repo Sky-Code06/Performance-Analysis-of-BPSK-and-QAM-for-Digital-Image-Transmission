@@ -34,9 +34,9 @@ Beyond raw Bit Error Rate (BER), this project connects physical-layer constellat
 
 | Name | Registration No. | Specialization / Project Role |
 | :--- | :---: | :--- |
-| **Glenn Monteiro** | `24BEC0474` | Theoretical Signal Space Modeling, Modulation/AWGN Derivation |
-| **Sanskriti Sarkar** | `24BEC0183` | Constellation Phase Analysis, Perceptual Quality Metrics (PSNR/SSIM) |
 | **Aakash Nair** | `24BEC0080` | Transceiver Implementation, Interactive MATLAB GUI, Monte Carlo Sweep |
+| **Sanskriti Sarkar** | `24BEC0183` | Constellation Phase Analysis, Perceptual Quality Metrics (PSNR/SSIM) |
+| **Glenn Monteiro** | `24BEC0474` | Theoretical Signal Space Modeling, Modulation/AWGN Derivation |
 
 ---
 

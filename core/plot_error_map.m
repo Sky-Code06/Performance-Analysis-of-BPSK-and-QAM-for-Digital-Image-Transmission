@@ -1,4 +1,4 @@
-function fig = plot_error_map(orig_img, rx_bpsk, rx_qam, snr_eval)
+﻿function fig = plot_error_map(orig_img, rx_bpsk, rx_qam, snr_eval)
 % PLOT_ERROR_MAP Generates spatial pixel error maps comparing BPSK and 16-QAM.
 %
 % Syntax:
@@ -10,7 +10,7 @@ function fig = plot_error_map(orig_img, rx_bpsk, rx_qam, snr_eval)
 %   - 16-QAM received image & absolute spatial pixel error heatmap
 %
 % DCS Project: Performance Analysis of BPSK and QAM for Digital Image Transmission
-% Authors: Glenn Monteiro (24BEC0474), Sanskriti Sarkar (24BEC0183), Aakash Nair (24BEC0080)
+% Authors: Aakash Nair (24BEC0080), Sanskriti Sarkar (24BEC0183), Glenn Monteiro (24BEC0474)
 % VIT - School of Electronics Engineering (SENSE)
 
     fig = figure('Name', sprintf('Spatial Error Mapping @ %d dB SNR', snr_eval), ...
